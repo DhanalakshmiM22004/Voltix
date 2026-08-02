@@ -118,7 +118,7 @@ export default function Footer() {
                   Voltix
                 </h3>
                 <p className="text-[11px] uppercase tracking-[2px] text-green-600 font-semibold"
-                style={{ marginLeft: "6px" }}>
+                style={{ marginLeft: "5px" }}>
                   Renewable Energy
                 </p>
               </div>
