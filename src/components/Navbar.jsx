@@ -70,7 +70,7 @@ export default function Navbar() {
                 Voltix
               </h1>
               <p className="text-[9px] sm:text-[11px] uppercase tracking-[2px] sm:tracking-[3px] text-green-600 font-semibold ml-0.5"
-               style={{ marginLeft: "6px" }}
+               style={{ marginLeft: "5px" }}
                >
                 Renewable Energy
               </p>
