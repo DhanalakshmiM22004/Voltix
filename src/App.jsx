@@ -4,16 +4,26 @@ import Services from "./components/Services";
 import Projects from "./components/Projects";
 import About from "./components/About";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#07111D] transition-all duration-500">
+
       <Navbar />
+
       <Hero />
+
       <Services />
+
       <Projects />
-       <About />
-       <Contact />
+
+      <About />
+
+      <Contact />
+
+      <Footer />
+
     </div>
   );
 }
